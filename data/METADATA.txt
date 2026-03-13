@@ -1,0 +1,19 @@
+JAHR = Zähljahr
+MONAT = Zählmonat
+ZNR = Zählstellenummer (verknüpfbar mit der ZST_ID des Datensatzes "Verkehrszählstellen - Standorte"
+ZNAME = Zählstellenname
+STRTYP = Straßentyp (B = Hauptstraße B, G = Gemeindestraße)
+STRNR = Straßennummer (Bezeichnung des Hauptstraßen B-Netzes)
+RINAME = Richtungsname (Fahrziel)
+FZTYP = Fahrzeugtyp / -gruppe (Kfz = Alle Kraftfahrzeuge, LkwÄ = Lkw-ähnliche Kraftfahrzeuge)
+DTV = Durchschnittlicher täglicher Verkehr (Anzahl der Fahrzeuge laut FZTYP pro 24h)
+DTVMS = Montag bis Sonntag (alle Tage)
+DTVMF = Montag bis Freitag (keine Feiertage)
+DTVMO = Montag (keine Feiertage)
+DTVDD = Dienstag bis Donnerstag (keine Feiertage)
+DTVFR = Freitag (keine Feiertage)
+DTVSA = Samstag (keine Feiertage)
+DTVSF = Sonn- und Feiertage
+TVMAX = Maximaler Tagesverkehr (alle Tage)
+TVMAXT = Wochentag und Datum des TVMAX, * =Tag enthält geschätzte Werte -29 = Negative Werte kennzeichnen nicht verfügbare
+    Werte (z.B. Ausfälle oder Gegenrichtung in Einbahnstraßen)
