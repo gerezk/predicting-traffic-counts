@@ -8,7 +8,7 @@ for each month at certain locations.
 
 Research question:
 
-> How does XGBoost perform in forecasting monthly average daily in Vienna, Austria using historical traffic data?
+> How does XGBoost perform in forecasting monthly average daily traffic counts in Vienna, Austria using historical traffic data?
 
 This project uses the dataset that was last updated on 20.11.2025.
 
